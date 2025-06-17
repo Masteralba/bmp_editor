@@ -12,7 +12,8 @@
 
 ## Usage
 ```bash
-./cw [options] input.bmp
+./cw [options] input.bmp```
+
 
 ## Usage sample
 
