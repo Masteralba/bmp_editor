@@ -10,9 +10,11 @@
 - Supports 24-bit uncompressed BMP files.
 - Robust input validation using regex.
 
+
+
 ## Usage
-```bash
-./cw [options] input.bmp```
+``bash
+./cw [options] input.bmp``
 
 
 ## Usage sample
